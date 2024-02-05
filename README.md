@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @u-n-s-t-o-p-p-a-b-l-e
 - 👀 Since I'm having ADHD few years back, finally I turn it into my superpower
-- 🌱 My Stacks begin with PHP, MySQL, Javascript, HTML, CSS, all vanilla's flavor
+- 🌱 My Stacks begin with PHP, MySQL, Javascript, HTML, CSS, Nginx all vanilla's flavor
 - 👀 Hand's on Python, C, C++, Bash, Assembly (x86-64) and lately Rust
 - 👀 Hand's on stacks such as React, Vue, MongoDB, Laravel, Javascript PWA
 - 😄 Yeah those tech stacks will never stop, do they? Also a year in Cyber Security as Ethichal Hacker
